@@ -3407,7 +3407,7 @@ input, select, textarea {
 			}
 
 			#wrapper section > footer {
-				padding: 0 10rem;
+				padding: 1 10rem;
 			}
 
 		#wrapper > section > header:before {
@@ -3551,7 +3551,7 @@ input, select, textarea {
 
 				#wrapper section {
 					grid-template-areas: "header" "content" "footer";
-					grid-template-columns: 1fr;
+					grid-template-columns: 2fr;
 					grid-template-rows: 3fr;
 				}
 
